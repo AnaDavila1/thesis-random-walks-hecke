@@ -55,7 +55,7 @@ The work combines tools from:
 
 The code in this repository includes:
 
-- Sampling algorithms for the **Mallows measure**(https://www.overleaf.com/project)
+- Sampling algorithms for the [**Mallows measure**](https://github.com/AnaDavila1/thesis-random-walks-hecke/blob/main/Mallow-sampling.ipynb)
 
 The simulations are designed to **illustrate and complement**
 the theoretical results, not to replace them.
