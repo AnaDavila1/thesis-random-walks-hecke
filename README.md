@@ -55,7 +55,7 @@ The work combines tools from:
 
 The code in this repository includes:
 
-- Sampling algorithms for the **Mallows measure**
+- Sampling algorithms for the **Mallows measure**(https://www.overleaf.com/project)
 
 The simulations are designed to **illustrate and complement**
 the theoretical results, not to replace them.
