@@ -30,7 +30,7 @@ The work combines tools from:
 - Inversion number and its combinatorial meaning
 
 ### Iwahori–Hecke Algebras
-- One-parameter Hecke algebra \( H_n(q) \)
+- One-parameter Hecke algebra $$ H_n(q) $$
 - Multiplication rules and q-deformations
 - Connection with the symmetric group at \( q = 1 \)
 
