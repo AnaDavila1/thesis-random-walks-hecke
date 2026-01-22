@@ -19,7 +19,7 @@ The work combines tools from:
 - Probability on groups  
 - Markov chains, relaxation time and mixing time  
 - Hecke algebras 
-
+![Image](https://github.com/user-attachments/assets/7b920fd8-93dd-44cd-b06d-10aac52e5a03)
 ---
 
 ## Main topics
