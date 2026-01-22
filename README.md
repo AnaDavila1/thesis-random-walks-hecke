@@ -34,7 +34,7 @@ The work combines tools from:
 - Multiplication rules and q-deformations
 - Connection with the symmetric group at \( q = 1 \)
 
-### Card Shuffling and Random Walks
+### Card Shuffling and Random Walks 🃏 ♣️ ♦️
 - Top-to-random shuffle
 - Random-to-bottom and bottom-to-random shuffles
 - Random-to-random shuffle on \( S_n \)
