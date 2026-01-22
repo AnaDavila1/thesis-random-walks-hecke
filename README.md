@@ -1,14 +1,13 @@
-# THESIS — RANDOM WALKS ON HECKE ALGEBRAS
+# Thesis — Random Walks and Hecke Algebras
 
-**Code, simulations, and mathematical notes** accompanying my **MSc thesis**  
-**“Hecke Algebras and Random Walks” (June 2025)**.
+**Simulations and mathematical notes for my MSc thesis on random walks on symmetric groups, Mallows measures, and Hecke algebras.**.
 
 This repository supports the theoretical results of the thesis through
 computational experiments, simulations, and auxiliary material.
 
 ---
 
-## 📖 THESIS OVERVIEW
+## 📖 Overview
 
 The thesis studies **random walks on the symmetric group** and their
 **q-deformations via Iwahori–Hecke algebras**, with a focus on
@@ -23,9 +22,9 @@ The work combines tools from:
 
 ---
 
-## 🧠 MAIN TOPICS
+## Main topics
 
-### 🔹 Symmetric Group and Coxeter Structure
+### 🔹 Symmetric Group
 - Generators and braid relations
 - Reduced expressions and permutation length
 - Inversion number and its combinatorial meaning
@@ -53,19 +52,16 @@ The work combines tools from:
 
 ---
 
-## 🧮 COMPUTATIONAL CONTENT
+##  Simulation content
 
 The code in this repository includes:
 
 - Sampling algorithms for the **Mallows measure**
-- Simulation of permutation statistics (inversions, length)
-- Numerical experiments illustrating convergence to stationarity
-- Visualization of probability mass functions and asymptotic regimes
 
 The simulations are designed to **illustrate and complement**
 the theoretical results, not to replace them.
 
 ---
 
-## 📁 REPOSITORY STRUCTURE
+
 
