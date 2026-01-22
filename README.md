@@ -24,33 +24,31 @@ The work combines tools from:
 
 ## Main topics
 
-### 🔹 Symmetric Group
+### Symmetric Group
 - Generators and braid relations
 - Reduced expressions and permutation length
 - Inversion number and its combinatorial meaning
 
-### 🔹 Iwahori–Hecke Algebras
+### Iwahori–Hecke Algebras
 - One-parameter Hecke algebra \( H_n(q) \)
 - Multiplication rules and q-deformations
 - Connection with the symmetric group at \( q = 1 \)
 
-### 🔹 Card Shuffling and Random Walks
+### Card Shuffling and Random Walks
 - Top-to-random shuffle
 - Random-to-bottom and bottom-to-random shuffles
 - Random-to-random shuffle on \( S_n \)
 
-### 🔹 Random Walks on Hecke Algebras
+### Random Walks on Hecke Algebras
 - q-random-to-random shuffle
 - Probabilistic interpretation of Hecke algebra multiplication
 - Mallows measure as stationary distribution
 
-### 🔹 Spectral Analysis
+### Spectral Analysis
 - Reversibility and aperiodicity
 - Spectral gap and relaxation time
 - Asymptotic behavior of \( t_{\mathrm{rel}}(q) \)
 - Relation between relaxation time and mixing time
-
----
 
 ##  Simulation content
 
